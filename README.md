@@ -1,9 +1,14 @@
 
 # Reservoir Operation Optimization using the Charged System Search (CSS) Metaheuristic Optimization algorithm
 
+Name of the paper:
 Optimization of Water-Supply and Hydropower Reservoir Operation Using the Charged System Search Algorithm
-
+Link:
 Main publication: https://www.mdpi.com/2306-5338/6/1/5
+
+Also this old but gold paper:
+Honey-bee mating optimization (HBMO) algorithm for optimal reservoir operation
+https://www.sciencedirect.com/science/article/abs/pii/S0016003206000822
 
 * This algorithm is used by me for the first time in the field of water resources management
 
